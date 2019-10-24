@@ -1,0 +1,11 @@
+#under-21{
+  display: none;
+}
+
+#over-21 {
+  display: none;
+}
+
+.jumbotron {
+  text-align: center;
+}
